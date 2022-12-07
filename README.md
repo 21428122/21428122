@@ -11,7 +11,7 @@
 
 - 🤝 I’m looking for help with **THREE.js**
 
-- 👨‍💻 All of my projects are available on [my Github profile](my Github profile)
+- 👨‍💻 All of my projects are available on https://github.com/21428122
 
 - 💬 Ask me about **Creative Web Development , User Interface and User Experience**
 
