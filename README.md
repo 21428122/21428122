@@ -9,6 +9,11 @@ I'm an AI & GTM engineer. I build the systems that turn attention into revenue: 
 - 🔎 **Search and content:** SEO and AEO, structured data, Search Console reporting, scripted publishing
 - 🛒 **Web and e-commerce:** PHP, Tailwind, Shopify (Liquid), performance work
 
+**Projects**
+
+- 🌐 **[Entrophy](https://entrophy.in)**: an independent Odoo studio for custom modules, integrations, migrations and agentic AI. Code: [entrophy-site](https://github.com/21428122/entrophy-site) · [entrophy-odoo-apps](https://github.com/21428122/entrophy-odoo-apps)
+- 🎬 **[Eclipr](https://www.eclipr.com/)**: website for a short-form clipping agency for brands. Code: [eclipr](https://github.com/21428122/eclipr)
+
 **Stack:** TypeScript · Next.js · Python · PHP · Supabase / Postgres · n8n · Gemini and Claude APIs
 
 **Elsewhere:** [LinkedIn](https://www.linkedin.com/in/udbhav-kamath/) · [Behance](https://www.behance.net/udbhavkamath) · [Medium](https://medium.com/@udbhavkamath2424)
