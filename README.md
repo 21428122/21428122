@@ -11,11 +11,11 @@ I'm an AI & GTM engineer. I build the systems that turn attention into revenue: 
 
 **Projects**
 
-- 🌐 **[Entrophy](https://entrophy.in)**: an independent Odoo studio for custom modules, integrations, migrations and agentic AI. Code: [entrophy-site](https://github.com/21428122/entrophy-site) · [entrophy-odoo-apps](https://github.com/21428122/entrophy-odoo-apps)
-- 🎬 **[Eclipr](https://www.eclipr.com/)**: website for a short-form clipping agency for brands. Code: [eclipr](https://github.com/21428122/eclipr)
+- 🌐 **[Entrophy](https://entrophy.in)**: an independent Odoo studio for custom modules, integrations, migrations and agentic AI.
+- 🎬 **[Eclipr](https://www.eclipr.com/)**: website for a short-form clipping agency for brands.
 
 **Stack:** TypeScript · Next.js · Python · PHP · Supabase / Postgres · n8n · Gemini and Claude APIs
 
 **Elsewhere:** [LinkedIn](https://www.linkedin.com/in/udbhav-kamath/) · [Behance](https://www.behance.net/udbhavkamath) · [Medium](https://medium.com/@udbhavkamath2424)
 
-Most of my production work lives in private company systems, so this page is lighter than my CV. LinkedIn has the full picture.
+My work lives in private repos and company systems. LinkedIn has the full picture.
